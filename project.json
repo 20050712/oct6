@@ -1,0 +1,10 @@
+{
+    "name": "oct6",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "oct6.xml",
+    "author": "20050712",
+    "minimum_firmware_version": 42
+}
