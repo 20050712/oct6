@@ -21,11 +21,11 @@
         <next>
           <block type="movement_stop" id="7">
             <next>
-              <block type="movement_forward" id="17">
+              <block type="movement_forward" id="8">
                 <next>
-                  <block type="movement_forward" id="27">
+                  <block type="movement_forward" id="9">
                     <next>
-                      <block type="movement_forward" id="46"></block>
+                      <block type="movement_forward" id="10"></block>
                     </next>
                   </block>
                 </next>
